@@ -197,8 +197,7 @@ switch(salary){
 // console.log(result);
 // function generate(start , End){
 //     for( i = start;start <= End; i++ ){
-        
-    
+       
 //         if(i === 15){
 //             return 'interuptting'
 //         }

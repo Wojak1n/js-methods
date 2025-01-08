@@ -172,4 +172,36 @@ switch(salary){
 // }
 // generateYears(2000, 2010);
 
-document.write(typeof undefined)
+// document.write(typeof undefined)
+// function generate(start, End){
+//     for (let i = start; i <= End; i++){
+//         console.log(i);
+//     }
+
+// }
+// generate(10,30)
+// function add1(){
+//     let a =  20
+//     let b = 10
+//     return a + b;
+
+
+// }
+// function add2(){
+//     let a = 30;
+//     let b = 10;
+//     return a + b;   
+// }
+
+// let result = add1() * add2()
+// console.log(result);
+// function generate(start , End){
+//     for( i = start;start <= End; i++ ){
+        
+    
+//         if(i === 15){
+//             return 'interuptting'
+//         }
+//     }
+// }
+// generate(1, 20);
